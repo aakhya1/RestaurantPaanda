@@ -47,8 +47,3 @@ button{
 	outline: none;
 
 }
-button:hover{
-	background-color: black;
-	color: orange;
-
-}
