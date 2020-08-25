@@ -1,5 +1,5 @@
 body{
-	background-image: url("samosa.jpg");
+	background-image: url("photos/aboutt.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 
@@ -22,13 +22,12 @@ li a{
 h1{
 	margin-top: 100px;
 	font-weight: bold;
-	margin-top: 90px;
+	margin-top: 100px;
 	height: 120px;
 	background-color: darkgrey;
-	color:white;
+	color:black;
 	text-align: center;
 	font-size: 60px;
-	margin-top: 70px;
 
 }
 

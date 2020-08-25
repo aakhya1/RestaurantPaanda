@@ -3,7 +3,7 @@
 	padding: 0;
 }
 body{
-	background-image: url("foodd.jpg");
+	background-image: url("photos/foodd.jpg");
 	background-size: cover;
 	transition: width 2s,height 4s;
 }
